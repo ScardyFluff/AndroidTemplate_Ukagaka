@@ -1,0 +1,8 @@
+*.psd
+*.mdp
+*.fap
+*.pdn
+*.pclx
+
+**/profile/*
+**/ghost/master/yaya_variable.cfg
